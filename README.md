@@ -1,34 +1,159 @@
-# Better Naming Convention
-aka BNC, is an organization between executor developers to provide a unified scripting API for our scripters.
+# Retarded Naming Convention
+aka UNC, except it was forked and "modified" horribly with big update!! (renamed all UNC mentions to BNC = big update yes)
 
-**Website will be avaliable soon :)**
+# Museum of Stupidity
+![image](https://github.com/user-attachments/assets/e2ca05e8-5d0b-4969-a0d3-24789014e88f)
 
-## Why?
-Over the years scripting has gotten more and more complex to support multiple executors. This is because of the many unique naming conventions various executors use.
+## Furry
+![image](https://github.com/user-attachments/assets/83541ce9-61b8-4fad-b745-3dc0da33a9ba)
+![furry](https://images-ext-1.discordapp.net/external/DQQhBsf7F1hJ8JYaWiKkl8hdUN73GkEAwk1838t-Ngk/%3Fv%3D3%26s%3D120/https/avatars3.githubusercontent.com/hyperdefined?format=webp)
 
-Consider the following scenario. You want to know if a function belongs to the executor or not. In order for this code to be cross compatiable with all executors code like this is needed:
-```lua
-local is_executor_closure = is_syn_closure or is_fluxus_closure or is_sentinel_closure or is_krnl_closure or is_proto_closure or is_calamari_closure or is_electron_closure or is_elysian_closure
-```
-This is reality for scripters who want cross compatibilty in their scripts. Scripters shouldn't have to do such laborous work just to attain cross compatability. The BNC seeks to solve this problem using naming conventions everyone agrees upon and follows.
+## plastering founder everywhere
+![image](https://github.com/user-attachments/assets/7f635c48-e1e5-4419-b655-4903dcdc7493)
+all you did was fucking clone UNC and rename every mention of UNC to BNC and now you think you can plaster the founder title everywhere as if youve made something revolutionary (most dogshit project i have ever seen)
 
-One variant of a script should naturally work on all script executors which have their environment properly fitted to the BNC. 
+## big update
+![image](https://github.com/user-attachments/assets/b782059f-5f66-484c-a8d7-5650e11794de)
+ah yes, very very big update changes omg!11!
 
-## How?
-The BNC provides standards for naming conventions as well as API functionality. The standard is written in markdown on this GitHub. Edits or additions are done through pull requests. Edits and additions are manually approved by the BNC council and discussed by everyone.
+## initialising
+![image](https://github.com/user-attachments/assets/c8429ed4-e6fb-4f00-bff1-86350567ca0c)
+wow! initialising huh? whats that wait for huh? fake loading effect bc you wanna seem like a very big script that takes time to load? nuh uh
 
-## Supporting BNC
-As a product owner, your support of BNC by following the API will result in a far smoother experience for scripters, as they are able to work on scripts that they can confidently say will work on **most** products. Once you have implemented BNC's API, you can display so by adding the badge to your website, thread or application.
+also you guys are fucking stupid, you proceed to do `tostring(identifyexecutor())` without even checking if `identifyexecutor()` is defined
 
-You can find the badge here: soon
+this is a literal UNC test, you should NOT be using UNC functions outside of the testing scope because:
+- the entire purpose of the UNC test is to verify whether the function exists
+- there is a possibility of the function not existing and therefore erroring your entire script
 
-This will notify people of your alliance in providing scripters with an easier method of engineering scripts that your consumers can enjoy.
+like what is the purpose in performing a test on `identifyexecutor()` later with the actual UNC verification logic if you *already know* it has failed because your **entire script** has failed to run because of that one print statement near the start of the script
+# Museum of Stupidity
+![image](https://github.com/user-attachments/assets/e2ca05e8-5d0b-4969-a0d3-24789014e88f)
 
-NOTICE: If you, as a product owner, do not have all of these functions but yet support the ones you do - you then support BNC! You are more than able to display the badge on your website.
+## Furry
+![image](https://github.com/user-attachments/assets/83541ce9-61b8-4fad-b745-3dc0da33a9ba)
+![furry](https://images-ext-1.discordapp.net/external/DQQhBsf7F1hJ8JYaWiKkl8hdUN73GkEAwk1838t-Ngk/%3Fv%3D3%26s%3D120/https/avatars3.githubusercontent.com/hyperdefined?format=webp)
 
-## Checking your environment
+## plastering founder everywhere
+![image](https://github.com/user-attachments/assets/7f635c48-e1e5-4419-b655-4903dcdc7493)
+all you did was fucking clone UNC and rename every mention of UNC to BNC and now you think you can plaster the founder title everywhere as if youve made something revolutionary (most dogshit project i have ever seen)
 
-You can run the BNC environment checking script to see how well your executor environment supports the BNC standard. Find the script [here.](BNCTest.lua) The script determines what is missing, and writes the results to file under workspace.
+## big update
+![image](https://github.com/user-attachments/assets/b782059f-5f66-484c-a8d7-5650e11794de)
+ah yes, very very big update changes omg!11!
 
-## Contributing
-Go [here](CONTRIBUTING.md) for a guide on contributing.
+## initialising
+![image](https://github.com/user-attachments/assets/c8429ed4-e6fb-4f00-bff1-86350567ca0c)
+wow! initialising huh? whats that wait for huh? fake loading effect bc you wanna seem like a very big script that takes time to load? nuh uh
+
+also you guys are fucking stupid, you proceed to do `tostring(identifyexecutor())` without even checking if `identifyexecutor()` is defined
+
+this is a literal UNC test, you should NOT be using UNC functions outside of the testing scope because:
+- the entire purpose of the UNC test is to verify whether the function exists
+- there is a possibility of the function not existing and therefore erroring your entire script
+
+like what is the purpose in performing a test on `identifyexecutor()` later with the actual UNC verification logic if you *already know* it has failed because your **entire script** has failed to run because of that one print statement near the start of the script
+# Museum of Stupidity
+![image](https://github.com/user-attachments/assets/e2ca05e8-5d0b-4969-a0d3-24789014e88f)
+
+## Furry
+![image](https://github.com/user-attachments/assets/83541ce9-61b8-4fad-b745-3dc0da33a9ba)
+![furry](https://images-ext-1.discordapp.net/external/DQQhBsf7F1hJ8JYaWiKkl8hdUN73GkEAwk1838t-Ngk/%3Fv%3D3%26s%3D120/https/avatars3.githubusercontent.com/hyperdefined?format=webp)
+
+## plastering founder everywhere
+![image](https://github.com/user-attachments/assets/7f635c48-e1e5-4419-b655-4903dcdc7493)
+all you did was fucking clone UNC and rename every mention of UNC to BNC and now you think you can plaster the founder title everywhere as if youve made something revolutionary (most dogshit project i have ever seen)
+
+## big update
+![image](https://github.com/user-attachments/assets/b782059f-5f66-484c-a8d7-5650e11794de)
+ah yes, very very big update changes omg!11!
+
+## initialising
+![image](https://github.com/user-attachments/assets/c8429ed4-e6fb-4f00-bff1-86350567ca0c)
+wow! initialising huh? whats that wait for huh? fake loading effect bc you wanna seem like a very big script that takes time to load? nuh uh
+
+also you guys are fucking stupid, you proceed to do `tostring(identifyexecutor())` without even checking if `identifyexecutor()` is defined
+
+this is a literal UNC test, you should NOT be using UNC functions outside of the testing scope because:
+- the entire purpose of the UNC test is to verify whether the function exists
+- there is a possibility of the function not existing and therefore erroring your entire script
+
+like what is the purpose in performing a test on `identifyexecutor()` later with the actual UNC verification logic if you *already know* it has failed because your **entire script** has failed to run because of that one print statement near the start of the script
+# Museum of Stupidity
+![image](https://github.com/user-attachments/assets/e2ca05e8-5d0b-4969-a0d3-24789014e88f)
+
+## Furry
+![image](https://github.com/user-attachments/assets/83541ce9-61b8-4fad-b745-3dc0da33a9ba)
+![furry](https://images-ext-1.discordapp.net/external/DQQhBsf7F1hJ8JYaWiKkl8hdUN73GkEAwk1838t-Ngk/%3Fv%3D3%26s%3D120/https/avatars3.githubusercontent.com/hyperdefined?format=webp)
+
+## plastering founder everywhere
+![image](https://github.com/user-attachments/assets/7f635c48-e1e5-4419-b655-4903dcdc7493)
+all you did was fucking clone UNC and rename every mention of UNC to BNC and now you think you can plaster the founder title everywhere as if youve made something revolutionary (most dogshit project i have ever seen)
+
+## big update
+![image](https://github.com/user-attachments/assets/b782059f-5f66-484c-a8d7-5650e11794de)
+ah yes, very very big update changes omg!11!
+
+## initialising
+![image](https://github.com/user-attachments/assets/c8429ed4-e6fb-4f00-bff1-86350567ca0c)
+wow! initialising huh? whats that wait for huh? fake loading effect bc you wanna seem like a very big script that takes time to load? nuh uh
+
+also you guys are fucking stupid, you proceed to do `tostring(identifyexecutor())` without even checking if `identifyexecutor()` is defined
+
+this is a literal UNC test, you should NOT be using UNC functions outside of the testing scope because:
+- the entire purpose of the UNC test is to verify whether the function exists
+- there is a possibility of the function not existing and therefore erroring your entire script
+
+like what is the purpose in performing a test on `identifyexecutor()` later with the actual UNC verification logic if you *already know* it has failed because your **entire script** has failed to run because of that one print statement near the start of the script
+# Museum of Stupidity
+![image](https://github.com/user-attachments/assets/e2ca05e8-5d0b-4969-a0d3-24789014e88f)
+
+## Furry
+![image](https://github.com/user-attachments/assets/83541ce9-61b8-4fad-b745-3dc0da33a9ba)
+![furry](https://images-ext-1.discordapp.net/external/DQQhBsf7F1hJ8JYaWiKkl8hdUN73GkEAwk1838t-Ngk/%3Fv%3D3%26s%3D120/https/avatars3.githubusercontent.com/hyperdefined?format=webp)
+
+## plastering founder everywhere
+![image](https://github.com/user-attachments/assets/7f635c48-e1e5-4419-b655-4903dcdc7493)
+all you did was fucking clone UNC and rename every mention of UNC to BNC and now you think you can plaster the founder title everywhere as if youve made something revolutionary (most dogshit project i have ever seen)
+
+## big update
+![image](https://github.com/user-attachments/assets/b782059f-5f66-484c-a8d7-5650e11794de)
+ah yes, very very big update changes omg!11!
+
+## initialising
+![image](https://github.com/user-attachments/assets/c8429ed4-e6fb-4f00-bff1-86350567ca0c)
+wow! initialising huh? whats that wait for huh? fake loading effect bc you wanna seem like a very big script that takes time to load? nuh uh
+
+also you guys are fucking stupid, you proceed to do `tostring(identifyexecutor())` without even checking if `identifyexecutor()` is defined
+
+this is a literal UNC test, you should NOT be using UNC functions outside of the testing scope because:
+- the entire purpose of the UNC test is to verify whether the function exists
+- there is a possibility of the function not existing and therefore erroring your entire script
+
+like what is the purpose in performing a test on `identifyexecutor()` later with the actual UNC verification logic if you *already know* it has failed because your **entire script** has failed to run because of that one print statement near the start of the script
+# Museum of Stupidity
+![image](https://github.com/user-attachments/assets/e2ca05e8-5d0b-4969-a0d3-24789014e88f)
+
+## Furry
+![image](https://github.com/user-attachments/assets/83541ce9-61b8-4fad-b745-3dc0da33a9ba)
+![furry](https://images-ext-1.discordapp.net/external/DQQhBsf7F1hJ8JYaWiKkl8hdUN73GkEAwk1838t-Ngk/%3Fv%3D3%26s%3D120/https/avatars3.githubusercontent.com/hyperdefined?format=webp)
+
+## plastering founder everywhere
+![image](https://github.com/user-attachments/assets/7f635c48-e1e5-4419-b655-4903dcdc7493)
+all you did was fucking clone UNC and rename every mention of UNC to BNC and now you think you can plaster the founder title everywhere as if youve made something revolutionary (most dogshit project i have ever seen)
+
+## big update
+![image](https://github.com/user-attachments/assets/b782059f-5f66-484c-a8d7-5650e11794de)
+ah yes, very very big update changes omg!11!
+
+## initialising
+![image](https://github.com/user-attachments/assets/c8429ed4-e6fb-4f00-bff1-86350567ca0c)
+wow! initialising huh? whats that wait for huh? fake loading effect bc you wanna seem like a very big script that takes time to load? nuh uh
+
+also you guys are fucking stupid, you proceed to do `tostring(identifyexecutor())` without even checking if `identifyexecutor()` is defined
+
+this is a literal UNC test, you should NOT be using UNC functions outside of the testing scope because:
+- the entire purpose of the UNC test is to verify whether the function exists
+- there is a possibility of the function not existing and therefore erroring your entire script
+
+like what is the purpose in performing a test on `identifyexecutor()` later with the actual UNC verification logic if you *already know* it has failed because your **entire script** has failed to run because of that one print statement near the start of the script
