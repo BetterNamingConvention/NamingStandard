@@ -3,7 +3,7 @@ The Actor library provides support for seamlessly running code within other glob
 `⚠️ WARNING: NOT ALL GAMES CONTAIN ACTORS`
 ---
 
-# getactors
+# getactorsDDDDD NGIGER
 ```lua
 function getactors(): table<number, Actor>
 ```
